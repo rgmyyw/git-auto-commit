@@ -1,1 +1,0 @@
-30,45 12-18 * * * cd /Users/yanghai/Documents/github/git-auto-commit && git pull && /usr/local/bin/node add.js && git commit -a -m 'git auto commit' && git push origin master && git log -1 | mail -s "git auto commit successfully!" coderhaiyang@gmail.com
